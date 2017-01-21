@@ -1,0 +1,109 @@
+[{
+	"questionId": 101,
+	"question": "Siapakah pendiri sekaligus presiden ESRI saat ini?",
+	"choices": [
+		"Michael Frank Goodchild",
+		"Jack Dangermond",
+		"Waldo Tobler",
+		"Luc Anselin",
+		"Stewart Fotheringham"
+	]
+}, {
+	"questionId": 102,
+	"question": "ESRI merupakan singkatan dari?",
+	"choices": [
+		"Environmental Systems Research Institute",
+		"Environmental Science Research Institute",
+		"Environmental Systems Re-mapping International",
+		"Environmental Science Regional Initiatives",
+		"Empower Scientific Research Initiatives"
+	]
+}, {
+	"questionId": 103,
+	"image": "img/103.png",
+	"question": "Apa yang ditunjukan oleh gambar tersebut?",
+	"choices": [
+		"Clip",
+		"Overlay",
+		"Buffer",
+		"Intersect",
+		"Join"
+	]
+}, {
+	"questionId": 104,
+	"image": "",
+	"question": "Apa kode EPSG untuk WGS 84?",
+	"choices": [
+		"1214",
+		"3893",
+		"3857",
+		"4326",
+		"900913"
+	]
+}, {
+	"questionId": 105,
+	"image": "",
+	"question": "Bagaimana cara menemukan kemiringan lereng menggunakan data DEM?",
+	"choices": [
+		"Spatial Analyst Tools > Interpolation > Krigging",
+		"3D Analyst Tools > Raster Surface > Hillshade",
+		"3D Analyst Tools > Data Management > Terrain Dataset -> Build Terrain",
+		"3D Analyst Tools > Raster Surface > Slope",
+		"Spatial Analyst Tools > Interpolation > Topo to Raster"
+	]
+}, {
+	"questionId": 106,
+	"image": "img/106.png",
+	"question": "Tools apa yang digunakan untuk membuat poligon seperti gambar di atas?",
+	"choices": [
+		"Thiessen Polygon",
+		"Interpolation",
+		"Krigging",
+		"IDW",
+		"Network Analysis"
+	]
+}, {
+	"questionId": 107,
+	"image": "",
+	"question": "Bagaimana cara menampilkan foto tergeolokasi ke dalam ArcMap?",
+	"choices": [
+		"Convertions Tools > Import GeoTagged Photos",
+		"Data Managemen Tools > Feature Class > GeoTagged Photos to Point",
+		"Data Management Tools > Photos > GeoTagged Photos to Points",
+		"Data Interoperability Tools > Quick Import",
+		"Conversion Tools > From Photos > GeoTagged Photos to Points"
+	]
+}, {
+	"questionId": 108,
+	"image": "",
+	"question": "Apa yang BUKAN merupakan tipe feature dalam shapefile?",
+	"choices": [
+		"Point",
+		"Polyline",
+		"Polygon",
+		"MultiPatch",
+		"MultiArea"
+	]
+}, {
+	"questionId": 109,
+	"image": "",
+	"question": "Bagaimana cara mengubah sistem koordinat pada tampilan ArcMAP?",
+	"choices": [
+		"Data Frame Properties > Coordinate System",
+		"ArcToolBox > Projections & Transformation > Define Projection",
+		"ArcToolBox > Projections & Transformation > Convert Coordinate Notation",
+		"ArcToolBox > Projections & Transformation > Feature > Project",
+		"Data Frame Properties > Grids"
+	]
+}, {
+	"questionId": 110,
+	"image": "img/110.png",
+	"question": "Tools apakah yang ditunjukan dalam gambar di atas?",
+	"choices": [
+		"Multiple Ring Buffer",
+		"Buffer tipe Dissolve All",
+		"Buffer tipe Dissolve None",
+		"Proximity",
+		"Network Analyst"
+	]
+}]
